@@ -1,0 +1,16 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\bin\Debug\net5.0\ObjectLifeTime.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\bin\Debug\net5.0\ObjectLifeTime.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\bin\Debug\net5.0\ObjectLifeTime.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\bin\Debug\net5.0\ObjectLifeTime.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\bin\Debug\net5.0\ObjectLifeTime.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\bin\Debug\net5.0\ref\ObjectLifeTime.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\bin\Debug\net5.0\ObjectLifeTime.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\obj\Debug\net5.0\ObjectLifeTime.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\obj\Debug\net5.0\ObjectLifeTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\obj\Debug\net5.0\ObjectLifeTime.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\obj\Debug\net5.0\ObjectLifeTime.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\obj\Debug\net5.0\ObjectLifeTime.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\obj\Debug\net5.0\ObjectLifeTime.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\obj\Debug\net5.0\ref\ObjectLifeTime.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\obj\Debug\net5.0\ObjectLifeTime.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ObjectLifeTime\ObjectLifeTime\obj\Debug\net5.0\ObjectLifeTime.genruntimeconfig.cache

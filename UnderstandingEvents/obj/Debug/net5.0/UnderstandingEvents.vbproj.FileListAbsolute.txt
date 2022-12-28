@@ -1,0 +1,15 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\bin\Debug\net5.0\UnderstandingEvents.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\bin\Debug\net5.0\UnderstandingEvents.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\bin\Debug\net5.0\UnderstandingEvents.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\bin\Debug\net5.0\UnderstandingEvents.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\bin\Debug\net5.0\UnderstandingEvents.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\bin\Debug\net5.0\ref\UnderstandingEvents.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\bin\Debug\net5.0\UnderstandingEvents.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\obj\Debug\net5.0\UnderstandingEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\obj\Debug\net5.0\UnderstandingEvents.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\obj\Debug\net5.0\UnderstandingEvents.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\obj\Debug\net5.0\UnderstandingEvents.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\obj\Debug\net5.0\UnderstandingEvents.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\obj\Debug\net5.0\ref\UnderstandingEvents.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\obj\Debug\net5.0\UnderstandingEvents.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEvents\obj\Debug\net5.0\UnderstandingEvents.genruntimeconfig.cache

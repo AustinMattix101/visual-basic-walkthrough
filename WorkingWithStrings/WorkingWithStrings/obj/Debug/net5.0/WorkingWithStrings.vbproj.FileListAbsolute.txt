@@ -1,0 +1,16 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\ref\WorkingWithStrings.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\ref\WorkingWithStrings.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.genruntimeconfig.cache

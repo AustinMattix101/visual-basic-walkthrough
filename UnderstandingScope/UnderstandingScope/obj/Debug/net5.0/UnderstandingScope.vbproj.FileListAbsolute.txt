@@ -1,0 +1,15 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\bin\Debug\net5.0\UnderstandingScope.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\bin\Debug\net5.0\UnderstandingScope.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\bin\Debug\net5.0\UnderstandingScope.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\bin\Debug\net5.0\UnderstandingScope.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\bin\Debug\net5.0\UnderstandingScope.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\bin\Debug\net5.0\ref\UnderstandingScope.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\bin\Debug\net5.0\UnderstandingScope.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\obj\Debug\net5.0\ref\UnderstandingScope.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingScope\UnderstandingScope\obj\Debug\net5.0\UnderstandingScope.genruntimeconfig.cache

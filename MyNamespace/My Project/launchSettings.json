@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyNamespace": {
+      "commandName": "Project",
+      "commandLineArgs": "e F g  h i"
+    }
+  }
+}

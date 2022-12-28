@@ -1,0 +1,16 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\bin\Debug\net5.0\UnderstandngSelectCase.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\bin\Debug\net5.0\UnderstandngSelectCase.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\bin\Debug\net5.0\UnderstandngSelectCase.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\bin\Debug\net5.0\UnderstandngSelectCase.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\bin\Debug\net5.0\UnderstandngSelectCase.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\bin\Debug\net5.0\ref\UnderstandngSelectCase.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\bin\Debug\net5.0\UnderstandngSelectCase.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\obj\Debug\net5.0\UnderstandngSelectCase.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\obj\Debug\net5.0\UnderstandngSelectCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\obj\Debug\net5.0\UnderstandngSelectCase.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\obj\Debug\net5.0\UnderstandngSelectCase.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\obj\Debug\net5.0\UnderstandngSelectCase.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\obj\Debug\net5.0\UnderstandngSelectCase.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\obj\Debug\net5.0\ref\UnderstandngSelectCase.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\obj\Debug\net5.0\UnderstandngSelectCase.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandngSelectCase\obj\Debug\net5.0\UnderstandngSelectCase.genruntimeconfig.cache

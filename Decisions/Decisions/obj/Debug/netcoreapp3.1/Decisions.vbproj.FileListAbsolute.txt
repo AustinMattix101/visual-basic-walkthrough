@@ -1,0 +1,26 @@
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.AssemblyInfoInputs.cache
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.AssemblyInfo.vb
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.vbproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.exe
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.deps.json
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.runtimeconfig.json
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.runtimeconfig.dev.json
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.dll
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.pdb
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.dll
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.pdb
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.genruntimeconfig.cache
+C:\Users\user\Google Drive\Personal\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.genruntimeconfig.cache

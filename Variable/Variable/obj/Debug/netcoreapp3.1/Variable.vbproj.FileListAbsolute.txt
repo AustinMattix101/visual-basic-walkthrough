@@ -1,0 +1,13 @@
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.exe
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.deps.json
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.runtimeconfig.json
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.runtimeconfig.dev.json
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.dll
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.pdb
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.AssemblyInfoInputs.cache
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.AssemblyInfo.vb
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.vbproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.dll
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.pdb
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.genruntimeconfig.cache
+C:\Users\user\Google Drive\Personal\Visual Studio\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.vbprojAssemblyReference.cache

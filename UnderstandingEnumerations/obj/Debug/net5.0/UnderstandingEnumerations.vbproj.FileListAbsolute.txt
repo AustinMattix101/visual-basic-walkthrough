@@ -1,0 +1,16 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\obj\Debug\net5.0\UnderstandingEnumerations.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\obj\Debug\net5.0\UnderstandingEnumerations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\obj\Debug\net5.0\UnderstandingEnumerations.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\obj\Debug\net5.0\UnderstandingEnumerations.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\obj\Debug\net5.0\UnderstandingEnumerations.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\bin\Debug\net5.0\UnderstandingEnumerations.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\bin\Debug\net5.0\UnderstandingEnumerations.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\bin\Debug\net5.0\UnderstandingEnumerations.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\bin\Debug\net5.0\UnderstandingEnumerations.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\bin\Debug\net5.0\UnderstandingEnumerations.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\bin\Debug\net5.0\ref\UnderstandingEnumerations.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\bin\Debug\net5.0\UnderstandingEnumerations.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\obj\Debug\net5.0\UnderstandingEnumerations.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\obj\Debug\net5.0\ref\UnderstandingEnumerations.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\obj\Debug\net5.0\UnderstandingEnumerations.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstandingEnumerations\obj\Debug\net5.0\UnderstandingEnumerations.genruntimeconfig.cache

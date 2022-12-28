@@ -1,0 +1,16 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\bin\Debug\net5.0\UnderstadingCollections.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\bin\Debug\net5.0\UnderstadingCollections.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\bin\Debug\net5.0\UnderstadingCollections.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\bin\Debug\net5.0\UnderstadingCollections.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\bin\Debug\net5.0\UnderstadingCollections.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\bin\Debug\net5.0\ref\UnderstadingCollections.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\bin\Debug\net5.0\UnderstadingCollections.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\obj\Debug\net5.0\UnderstadingCollections.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\obj\Debug\net5.0\UnderstadingCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\obj\Debug\net5.0\UnderstadingCollections.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\obj\Debug\net5.0\UnderstadingCollections.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\obj\Debug\net5.0\UnderstadingCollections.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\obj\Debug\net5.0\UnderstadingCollections.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\obj\Debug\net5.0\ref\UnderstadingCollections.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\obj\Debug\net5.0\UnderstadingCollections.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\UnderstadingCollections\obj\Debug\net5.0\UnderstadingCollections.genruntimeconfig.cache

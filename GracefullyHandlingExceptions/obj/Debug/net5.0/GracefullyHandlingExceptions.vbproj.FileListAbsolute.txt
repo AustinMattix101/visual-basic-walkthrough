@@ -1,0 +1,16 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\bin\Debug\net5.0\GracefullyHandlingExceptions.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\bin\Debug\net5.0\GracefullyHandlingExceptions.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\bin\Debug\net5.0\GracefullyHandlingExceptions.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\bin\Debug\net5.0\GracefullyHandlingExceptions.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\bin\Debug\net5.0\GracefullyHandlingExceptions.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\bin\Debug\net5.0\ref\GracefullyHandlingExceptions.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\bin\Debug\net5.0\GracefullyHandlingExceptions.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\obj\Debug\net5.0\GracefullyHandlingExceptions.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\obj\Debug\net5.0\GracefullyHandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\obj\Debug\net5.0\GracefullyHandlingExceptions.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\obj\Debug\net5.0\GracefullyHandlingExceptions.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\obj\Debug\net5.0\GracefullyHandlingExceptions.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\obj\Debug\net5.0\GracefullyHandlingExceptions.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\obj\Debug\net5.0\ref\GracefullyHandlingExceptions.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\obj\Debug\net5.0\GracefullyHandlingExceptions.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\GracefullyHandlingExceptions\obj\Debug\net5.0\GracefullyHandlingExceptions.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ClassLibrary2\bin\Debug\net5.0\ClassLibrary2.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ClassLibrary2\bin\Debug\net5.0\ClassLibrary2.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ClassLibrary2\bin\Debug\net5.0\ref\ClassLibrary2.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ClassLibrary2\bin\Debug\net5.0\ClassLibrary2.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ClassLibrary2\obj\Debug\net5.0\ref\ClassLibrary2.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Webscrape", "Webscrape.vbproj", "{03BA68EB-4E5F-436E-AC63-CE3E5036D467}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ClassLibrary2", "..\ClassLibrary2\ClassLibrary2.vbproj", "{85C1CF69-E16D-4610-81E2-B5B367A010EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03BA68EB-4E5F-436E-AC63-CE3E5036D467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BA68EB-4E5F-436E-AC63-CE3E5036D467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BA68EB-4E5F-436E-AC63-CE3E5036D467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BA68EB-4E5F-436E-AC63-CE3E5036D467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C1CF69-E16D-4610-81E2-B5B367A010EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C1CF69-E16D-4610-81E2-B5B367A010EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C1CF69-E16D-4610-81E2-B5B367A010EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C1CF69-E16D-4610-81E2-B5B367A010EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A9FF44-4DEA-43E8-BAF8-1D90BEEF7898}
+	EndGlobalSection
+EndGlobal

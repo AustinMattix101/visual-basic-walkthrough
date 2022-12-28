@@ -1,0 +1,16 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\obj\Debug\net5.0\Calling Methods.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\obj\Debug\net5.0\Calling Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\obj\Debug\net5.0\Calling Methods.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\obj\Debug\net5.0\Calling Methods.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\obj\Debug\net5.0\Calling Methods.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\bin\Debug\net5.0\Calling Methods.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\bin\Debug\net5.0\Calling Methods.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\bin\Debug\net5.0\Calling Methods.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\bin\Debug\net5.0\Calling Methods.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\bin\Debug\net5.0\Calling Methods.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\bin\Debug\net5.0\ref\Calling Methods.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\bin\Debug\net5.0\Calling Methods.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\obj\Debug\net5.0\Calling Methods.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\obj\Debug\net5.0\ref\Calling Methods.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\obj\Debug\net5.0\Calling Methods.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Calling Methods\Calling Methods\obj\Debug\net5.0\Calling Methods.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Webscrape/1.0.0": {
+        "dependencies": {
+          "ClassLibrary2": "1.0.0"
+        },
+        "runtime": {
+          "Webscrape.dll": {}
+        }
+      },
+      "ClassLibrary2/1.0.0": {
+        "runtime": {
+          "ClassLibrary2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Webscrape/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

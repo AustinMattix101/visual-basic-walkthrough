@@ -1,0 +1,16 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\bin\Debug\net5.0\ResolvingReferences.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\bin\Debug\net5.0\ResolvingReferences.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\bin\Debug\net5.0\ResolvingReferences.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\bin\Debug\net5.0\ResolvingReferences.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\bin\Debug\net5.0\ResolvingReferences.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\bin\Debug\net5.0\ref\ResolvingReferences.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\bin\Debug\net5.0\ResolvingReferences.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\obj\Debug\net5.0\ResolvingReferences.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\obj\Debug\net5.0\ResolvingReferences.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\obj\Debug\net5.0\ResolvingReferences.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\obj\Debug\net5.0\ResolvingReferences.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\obj\Debug\net5.0\ResolvingReferences.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\obj\Debug\net5.0\ResolvingReferences.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\obj\Debug\net5.0\ref\ResolvingReferences.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\obj\Debug\net5.0\ResolvingReferences.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ResolvingReferences\ResolvingReferences\obj\Debug\net5.0\ResolvingReferences.genruntimeconfig.cache

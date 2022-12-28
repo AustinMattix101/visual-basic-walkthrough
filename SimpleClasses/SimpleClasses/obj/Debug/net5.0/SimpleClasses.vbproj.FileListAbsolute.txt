@@ -1,0 +1,16 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\bin\Debug\net5.0\SimpleClasses.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\bin\Debug\net5.0\SimpleClasses.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\bin\Debug\net5.0\SimpleClasses.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\bin\Debug\net5.0\SimpleClasses.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\bin\Debug\net5.0\SimpleClasses.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\bin\Debug\net5.0\ref\SimpleClasses.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\bin\Debug\net5.0\SimpleClasses.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\obj\Debug\net5.0\SimpleClasses.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\obj\Debug\net5.0\SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\obj\Debug\net5.0\SimpleClasses.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\obj\Debug\net5.0\SimpleClasses.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\obj\Debug\net5.0\SimpleClasses.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\obj\Debug\net5.0\SimpleClasses.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\obj\Debug\net5.0\ref\SimpleClasses.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\obj\Debug\net5.0\SimpleClasses.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\SimpleClasses\SimpleClasses\obj\Debug\net5.0\SimpleClasses.genruntimeconfig.cache

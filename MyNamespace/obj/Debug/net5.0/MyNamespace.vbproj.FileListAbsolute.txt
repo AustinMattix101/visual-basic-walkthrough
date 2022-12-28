@@ -1,0 +1,24 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\MyNamespace.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\Interop.VSLangProj2.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\Interop.VSLangProj.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\Interop.VBIDE.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\MyNamespace.vbproj.ResolveComReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\MyNamespace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\MyNamespace.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\MyNamespace.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\MyNamespace.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\bin\Debug\net5.0\MyNamespace.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\bin\Debug\net5.0\MyNamespace.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\bin\Debug\net5.0\MyNamespace.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\bin\Debug\net5.0\MyNamespace.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\bin\Debug\net5.0\MyNamespace.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\bin\Debug\net5.0\ref\MyNamespace.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\bin\Debug\net5.0\MyNamespace.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\MyNamespace.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\ref\MyNamespace.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\MyNamespace.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\MyNamespace\obj\Debug\net5.0\MyNamespace.genruntimeconfig.cache
+D:\Connor Matt\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\MyNamespace\obj\Debug\net5.0\MyNamespace.vbproj.AssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\MyNamespace\obj\Debug\net5.0\MyNamespace.dll
+D:\Connor Matt\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\MyNamespace\obj\Debug\net5.0\ref\MyNamespace.dll
+D:\Connor Matt\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\MyNamespace\obj\Debug\net5.0\MyNamespace.pdb

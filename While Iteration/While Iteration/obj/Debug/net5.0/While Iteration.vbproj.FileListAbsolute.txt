@@ -1,0 +1,32 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\bin\Debug\net5.0\While Iteration.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\bin\Debug\net5.0\While Iteration.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\bin\Debug\net5.0\While Iteration.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\bin\Debug\net5.0\While Iteration.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\bin\Debug\net5.0\While Iteration.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\bin\Debug\net5.0\ref\While Iteration.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\bin\Debug\net5.0\While Iteration.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\obj\Debug\net5.0\ref\While Iteration.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.genruntimeconfig.cache
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\bin\Debug\net5.0\While Iteration.exe
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\bin\Debug\net5.0\While Iteration.deps.json
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\bin\Debug\net5.0\While Iteration.runtimeconfig.json
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\bin\Debug\net5.0\While Iteration.runtimeconfig.dev.json
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\bin\Debug\net5.0\While Iteration.dll
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\bin\Debug\net5.0\While Iteration.pdb
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.vbproj.AssemblyReference.cache
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.AssemblyInfoInputs.cache
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.AssemblyInfo.vb
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.vbproj.CoreCompileInputs.cache
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.dll
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\obj\Debug\net5.0\refint\While Iteration.dll
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.pdb
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\obj\Debug\net5.0\While Iteration.genruntimeconfig.cache
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Basic .NET\While Iteration\While Iteration\obj\Debug\net5.0\ref\While Iteration.dll

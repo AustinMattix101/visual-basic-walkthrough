@@ -1,0 +1,39 @@
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.exe
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.deps.json
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.json
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.dev.json
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.dll
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.pdb
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.vbprojAssemblyReference.cache
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfoInputs.cache
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfo.vb
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.vbproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.dll
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.pdb
+C:\Users\User\Google Drive (kruychamroeun101@gmail.com)\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.genruntimeconfig.cache
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.exe
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.deps.json
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.json
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.dev.json
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.dll
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.pdb
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.vbprojAssemblyReference.cache
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfoInputs.cache
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfo.vb
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.vbproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.dll
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.pdb
+C:\Users\user\Google Drive\Personal\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.genruntimeconfig.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.genruntimeconfig.cache

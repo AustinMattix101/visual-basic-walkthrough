@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\UnderstandingLINQ\bin\Debug\net5.0\UnderstandingLINQ.exe
+C:\Users\user\source\repos\UnderstandingLINQ\bin\Debug\net5.0\UnderstandingLINQ.deps.json
+C:\Users\user\source\repos\UnderstandingLINQ\bin\Debug\net5.0\UnderstandingLINQ.runtimeconfig.json
+C:\Users\user\source\repos\UnderstandingLINQ\bin\Debug\net5.0\UnderstandingLINQ.runtimeconfig.dev.json
+C:\Users\user\source\repos\UnderstandingLINQ\bin\Debug\net5.0\UnderstandingLINQ.dll
+C:\Users\user\source\repos\UnderstandingLINQ\bin\Debug\net5.0\ref\UnderstandingLINQ.dll
+C:\Users\user\source\repos\UnderstandingLINQ\bin\Debug\net5.0\UnderstandingLINQ.pdb
+C:\Users\user\source\repos\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.AssemblyInfo.vb
+C:\Users\user\source\repos\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.dll
+C:\Users\user\source\repos\UnderstandingLINQ\obj\Debug\net5.0\ref\UnderstandingLINQ.dll
+C:\Users\user\source\repos\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.pdb
+C:\Users\user\source\repos\UnderstandingLINQ\obj\Debug\net5.0\UnderstandingLINQ.genruntimeconfig.cache

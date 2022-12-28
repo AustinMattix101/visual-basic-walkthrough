@@ -1,0 +1,32 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ArraysDATA.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ArraysDATA.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ArraysDATA.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ArraysDATA.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ArraysDATA.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ref\ArraysDATA.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ArraysDATA.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ref\ArraysDATA.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.genruntimeconfig.cache
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ArraysDATA.exe
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ArraysDATA.deps.json
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ArraysDATA.runtimeconfig.json
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ArraysDATA.runtimeconfig.dev.json
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ArraysDATA.dll
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ref\ArraysDATA.dll
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\bin\Debug\net5.0\ArraysDATA.pdb
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.vbproj.AssemblyReference.cache
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.AssemblyInfoInputs.cache
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.AssemblyInfo.vb
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.vbproj.CoreCompileInputs.cache
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.dll
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ref\ArraysDATA.dll
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.pdb
+D:\Austin Mattix\Determination DATA\Software Development\Code\Visual Studio\Visual Basic\ArraysDATA\ArraysDATA\obj\Debug\net5.0\ArraysDATA.genruntimeconfig.cache

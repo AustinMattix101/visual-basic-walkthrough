@@ -1,0 +1,16 @@
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\bin\Debug\net5.0\WorkingWithDatesAndTimes.exe
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\bin\Debug\net5.0\WorkingWithDatesAndTimes.deps.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\bin\Debug\net5.0\WorkingWithDatesAndTimes.runtimeconfig.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\bin\Debug\net5.0\WorkingWithDatesAndTimes.runtimeconfig.dev.json
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\bin\Debug\net5.0\WorkingWithDatesAndTimes.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\bin\Debug\net5.0\ref\WorkingWithDatesAndTimes.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\bin\Debug\net5.0\WorkingWithDatesAndTimes.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\obj\Debug\net5.0\WorkingWithDatesAndTimes.vbprojAssemblyReference.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\obj\Debug\net5.0\WorkingWithDatesAndTimes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\obj\Debug\net5.0\WorkingWithDatesAndTimes.AssemblyInfoInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\obj\Debug\net5.0\WorkingWithDatesAndTimes.AssemblyInfo.vb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\obj\Debug\net5.0\WorkingWithDatesAndTimes.vbproj.CoreCompileInputs.cache
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\obj\Debug\net5.0\WorkingWithDatesAndTimes.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\obj\Debug\net5.0\ref\WorkingWithDatesAndTimes.dll
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\obj\Debug\net5.0\WorkingWithDatesAndTimes.pdb
+D:\Connor Matt\Determination DATA\Software Development\Visual Studio\WorkingWithDatesAndTimes\WorkingWithDatesAndTimes\obj\Debug\net5.0\WorkingWithDatesAndTimes.genruntimeconfig.cache
